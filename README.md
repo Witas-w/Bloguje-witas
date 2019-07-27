@@ -83,7 +83,7 @@
           top: 75px;
           left: 0px;
           width: 30%;
-          height: 85%;
+          height: 30%;
           position: fixed;
       }
       .styled {
