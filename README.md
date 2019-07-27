@@ -1,4 +1,4 @@
-# Bloguje
+# Witas bloguje
 
 <!DOCTYPE html>
 <html>
