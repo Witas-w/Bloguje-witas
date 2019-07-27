@@ -60,15 +60,15 @@
       }
       .lok{
          position: absolute; 
-         left: 10px;
+         left: 00px;
       }
       .klok{
            position: absolute;
-           left: 110px;
+           left: 95px;
       }
       .loki{
            position: relative;
-           left: 160px;
+           left: 150px;
       }
       #lokiter{
           background-color: #4e9447;
@@ -130,7 +130,7 @@
             <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Galeria zdjęć</a>
         </nav>
-        <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Collage_of_views_of_Ustka.jpg">
+  
         </div>
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
