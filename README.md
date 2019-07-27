@@ -35,7 +35,7 @@
           position: absolute;
           top: 40px;
           left: 127px;
-          font-family: fantasy;
+          font-family: Arial;
           
       }
       nav{
