@@ -15,6 +15,9 @@
    
    
         }
+        table{
+        color: black;
+        }
        .menu-1{
            background: white;
            top: 0px;
