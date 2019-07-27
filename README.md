@@ -11,6 +11,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
+    overflow: hidden;
    
    
         }
@@ -56,15 +57,15 @@
       }
       .lok{
          position: absolute; 
-         left: 15px;
+         left: 10px;
       }
       .klok{
            position: absolute;
-           left: 115px;
+           left: 110px;
       }
       .loki{
            position: relative;
-           left: 165px;
+           left: 160px;
       }
       #lokiter{
           background-color: #4e9447;
