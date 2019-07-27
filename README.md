@@ -81,7 +81,7 @@
       .img{
           float: left;
           top: 75px;
-          left: 60px;
+          left: 0px;
           width: 30%;
           height: 85%;
           position: fixed;
