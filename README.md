@@ -1,5 +1,4 @@
 # Witas bloguje
-
 <!DOCTYPE html>
 <html>
     <head>
