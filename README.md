@@ -56,15 +56,15 @@
       }
       .lok{
          position: absolute; 
-         left: 20px;
+         left: 15px;
       }
       .klok{
            position: absolute;
-           left: 120px;
+           left: 115px;
       }
       .loki{
            position: relative;
-           left: 173px;
+           left: 165px;
       }
       #lokiter{
           background-color: #4e9447;
