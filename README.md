@@ -80,10 +80,10 @@
       }
       .img{
           float: left;
-          top: 100px;
+          top: 75px;
           left: 60px;
           width: 40%;
-          height: 50%;
+          height: 75%;
           position: fixed;
       }
       .styled {
