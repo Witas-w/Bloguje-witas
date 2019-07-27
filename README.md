@@ -20,7 +20,7 @@
            width: 100%;
            height: 70px;
            position: absolute;
-           font-family: fantasy;
+           font-family: Arial;
            float: left;
           left: 0px;
        }
@@ -70,8 +70,8 @@
           background-color: #4e9447;
           position: absolute;
           top:300px;
-          right: 47px;
-         width:40%;
+          right: 0px;
+         width:70%;
          font-size: 20px;
       }
       #akt{
@@ -82,7 +82,7 @@
           float: left;
           top: 75px;
           left: 60px;
-          width: 40%;
+          width: 30%;
           height: 85%;
           position: fixed;
       }
@@ -112,7 +112,7 @@
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
-#b{
+
         </style>
     </head>
     <body>
