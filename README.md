@@ -83,7 +83,7 @@
           top: 75px;
           left: 60px;
           width: 40%;
-          height: 75%;
+          height: 85%;
           position: fixed;
       }
       .styled {
@@ -123,7 +123,7 @@
          <div id="lokko">
         <nav>
             <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualnosci</a>
-            <a class="klok" href="#">Blog</a>
+            <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Galeria zdjęć</a>
         </nav>
         <img class="img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Collage_of_views_of_Ustka.jpg">
@@ -349,7 +349,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     
       <h3 id="DD">26.07.2019r.</h3>
  <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Tam weszliśmy do Jabłonowskich i kupiliśmy kawę. O godzinie 12 wróciliśmy do Ustki zachodniej kładką. Potem poszliśmy do restauracji <em>Krzywy róg</em> gdzie zjedliśmy pyszne pierogi i rosół. Wieczorem poszliśmy na plażę zachodnią i przeszliśmy się do rzeki Czarnej, która została zasypana przez wydmy. Statek SM PRC 112 nadal pogłębia port koło mostu kolejowego.</p>
-  <a href="#b"><button
+  
         </div>
        
    
