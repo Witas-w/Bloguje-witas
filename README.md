@@ -70,6 +70,7 @@
            left: 140px;
       }
       #lokiter{
+          z-index: 2;
           background-color: #4e9447;
           position: absolute;
           top:300px;
