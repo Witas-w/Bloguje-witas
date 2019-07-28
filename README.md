@@ -143,7 +143,7 @@
   
         </div>
         
-          <img id="img" src="http://img4.garnek.pl/a.garnek.pl/011/729/11729597_800.0.jpg/poznan-malownicze-kamieniczki.jpg">
+          <img id="img" src="https://s.iha.com/00113734966/Traben-trarbach-Traben-trarbach.jpeg">
           
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
