@@ -143,7 +143,7 @@
   
         </div>
         
-          <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+          <img id="img" src="http://img4.garnek.pl/a.garnek.pl/011/729/11729597_800.0.jpg/poznan-malownicze-kamieniczki.jpg">
           
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
