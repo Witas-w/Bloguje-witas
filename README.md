@@ -116,7 +116,16 @@
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
-
+#img {
+       position: absolute;
+       z-index: 1;
+      height: 100%;
+      bottom: 0px;
+       top: 70px;
+       width: 100%;
+       right: 0px;
+       left: 0px;
+       }
         </style>
     </head>
     <body>
@@ -132,6 +141,9 @@
         </nav>
   
         </div>
+        
+          <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg/240px-Thomas_Cole_-_The_Voyage_of_Life_Youth%2C_1840_%28Munson-Williams-Proctor_Arts_Institute%29.jpg">
+          
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
   <a href="#DD"><button class="styled"
