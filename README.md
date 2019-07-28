@@ -367,10 +367,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
       <h3>26.07.2019r.</h3>
  <p>Dzisiaj rano poszliśmy do Ustki wschodniej. Tam weszliśmy do Jabłonowskich i kupiliśmy kawę. O godzinie 12 wróciliśmy do Ustki zachodniej kładką. Potem poszliśmy do restauracji <em>Krzywy róg</em> gdzie zjedliśmy pyszne pierogi i rosół. Wieczorem poszliśmy na plażę zachodnią i przeszliśmy się do rzeki Czarnej, która została zasypana przez wydmy. Statek SM PRC 112 nadal pogłębia port koło mostu kolejowego.</p>
  
- <h3 id="DD">27.07.2019r.</h3>
- <p>Dzisiaj rano poszliśmy na pierwszy obiad w tym turnusie. Potem poszliśmy do <em>Mistrala</em> na Kaszubskiej. Tam zjadłem lody i pączka. Następnie poszliśmy ulicą Marynarki do portu. W porcie i na promenadzie odbywają się pokazy akrobacji rowerowych. Następnie poszliśmy promenadą do parku Chopina. Wieczorem wróciliśmy do domu.  </p>
-  
-        </div>
+ <h3>27.07.2019r.</h3>
+ <p>Dzisiaj rano poszliśmy na pierwszy obiad w tym turnusie. Potem udaliśmy się do <em>Mistrala</em> na Kaszubskiej. Tam zjadłem lody i pączka. Następnie przesliśmy się ulicą Marynarki do portu. W porcie i na promenadzie odbywają się pokazy akrobacji rowerowych. Po obejrzeniu akrobacji rowerowych doszliśmy promenadą do parku Chopina. Wieczorem wróciliśmy do domu.  </p>
+ 
+ <h3 id="DD">28.07.2019r.</h3>
+ <p>Dzisiaj byliśmy na obiedzie. Następnie poszliśmy do <em>Lubicza</em> gdzie wypiłem sok pomarańczowy. Potem udaliśmy się do <em>Góry  Lodowej</em>. Tam zjadłem dwie gałki najlepszych lodów w Ustce. Po zjedzeniu lodów doszliśmy ulicą Marynarki na pączki do <em>Starej pączkarni</em>. Zjedliśmy pączki i wracając do domu przeszliśmy przez kładkę.</p>      
+       
+       </div>
        
    
  
