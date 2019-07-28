@@ -74,8 +74,8 @@
           background-color: #4e9447;
           position: absolute;
           top:300px;
-          right: 10px;
-         left: 10px;
+          right: 0px;
+         left: 0px;
          font-size: 20px;
          Text-align: center;
       }
