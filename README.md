@@ -126,7 +126,7 @@
          </div>
          <div id="lokko">
         <nav>
-            <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualnosci</a>
+            <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
             <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
         </nav>
