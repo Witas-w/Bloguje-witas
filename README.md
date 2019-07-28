@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-    Text-align: center;
+    
    
    
         }
@@ -76,6 +76,7 @@
           right: 10px;
          left: 10px;
          font-size: 20px;
+         Text-align: center;
       }
       #akt{
           border-bottom:1px solid white;
