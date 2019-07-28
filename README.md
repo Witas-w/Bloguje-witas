@@ -29,7 +29,7 @@
        }
        #aut{
         
-         color: blue;  
+         color: green;  
        }
       #klik{
          color: grey; 
