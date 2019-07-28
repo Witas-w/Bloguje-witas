@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0;
-
+    Text-align: center;
    
    
         }
