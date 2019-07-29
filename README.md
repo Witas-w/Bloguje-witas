@@ -120,7 +120,7 @@
 #img {
        position: absolute;
        z-index: 1;
-      height: 270px;
+      height: 230px;
       bottom: 0px;
        top: 70px;
        width: 100%;
