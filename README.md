@@ -143,7 +143,7 @@
   
         </div>
         
-          <img id="img" src="https://s.iha.com/00113734966/Traben-trarbach-Traben-trarbach.jpeg">
+          <img id="img" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Traben-Trarbach%2C_Wolf.jpg">
           
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
