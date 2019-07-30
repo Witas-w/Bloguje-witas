@@ -39,11 +39,12 @@
           top: 40px;
           left: 127px;
           font-family: Arial;
-          color: black;
+          
           
       }
       nav{
           text-decoration: none;
+          color: black;
       }
       a{
         text-decoration: none;
