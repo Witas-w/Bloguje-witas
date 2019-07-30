@@ -143,7 +143,8 @@
   
         </div>
         
-          <img id="img" src="https://s6.ifotos.pl/img/8E43BB66-_qseaxrx.jpg">
+          
+          <img id="img" src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">
           
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
