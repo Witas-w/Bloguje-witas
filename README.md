@@ -380,11 +380,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <p>Dzisiaj byliśmy na obiedzie. Po nim udaliśmy się z babcią 2 kilometry za Orzechowo. Mogliśmy dojść do Poddąbia, ale było strasznie gorąco. Następnie wróciliśmy do Ustki plażą i nową promenadą. Na promenadzie zjadłem gofra u <em>Chomczyńskich</em> i jednego pączka ze <em>Starej Pączkarni</em>. Potem poszliśmy do portu i widzieliśmy wypływający statek SM PRC 112, a gdy za drugim razem udaliśmy się tam  ponownie oglądaliśmy ten statek, który powrócił z morza. Wieczorem wróciliśmy ulicą Marynarki do domu.</p>
   
   
- <h3 id="DD">30.07.2019r.</h3>
+ <h3>30.07.2019r.</h3>
  <p>Dzisiaj jak codzień byliśmy na obiedzie. Po nim poszliśmy do <em>Mistrala tu i teraz</em> znajdującego się przy ulicy Marynarki. Potem udaliśmy się do portu, gdzie statek SM PRC 112 pogłębia Słupię w okolicy nowej mariny. Zdjęcia tego statku można zobaczyć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Następnie wróciliśmy przez ulicę Darłowską do domu. Wieczorem wybrałem się z babcią nad <em>Staw Upiorów</em>, a następnie doszliśmy do ulicy Wilczej. Wracając poćwiczyliśmy na różnych urządzeniach na ścieżce zdrowia.</p>
   
   
+  <h3 id="DD">31.07.2019r.</h3>
   
+  <p>Dzisiaj rano udaliśmy się na pocztę nadać pocztówki. Następnie dotarliśmy na obiad przez park Chopina. Po obiedzie poszliśmy do portu, gdzie widzieliśmy rozkładający się <em>TVN Projekt plaża</em> oraz statek SM PRC 112 stojący obok żurawika portowego. Potem wybraliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Po wizycie w kawiarni udaliśmy się do <em>Mistrala</em> na Kaszubskiej na lemoniadę poziomkową. Następnie postanowiliśmy iść do <em>Góry Lodowej</em>. Idąc ulicą Bakuły z bacią dotarliśmy do <em>Pasażu Bałtyckiego</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1. </p>
        </div>
        
    
