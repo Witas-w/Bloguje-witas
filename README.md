@@ -384,10 +384,17 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <p>Dzisiaj jak codzień byliśmy na obiedzie. Po nim poszliśmy do <em>Mistrala tu i teraz</em> znajdującego się przy ulicy Marynarki. Potem udaliśmy się do portu, gdzie statek SM PRC 112 pogłębia Słupię w okolicy nowej mariny. Zdjęcia tego statku można zobaczyć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Następnie wróciliśmy przez ulicę Darłowską do domu. Wieczorem wybrałem się z babcią nad <em>Staw Upiorów</em>, a następnie doszliśmy do ulicy Wilczej. Wracając poćwiczyliśmy na różnych urządzeniach na ścieżce zdrowia.</p>
   
   
-  <h3 id="DD">31.07.2019r.</h3>
+  <h3>31.07.2019r.</h3>
   
   <p>Dzisiaj rano udaliśmy się na pocztę nadać pocztówki. Następnie dotarliśmy na obiad przez park Chopina. Po obiedzie poszliśmy do portu, gdzie widzieliśmy rozkładający się <em>TVN Projekt plaża</em> oraz statek SM PRC 112 stojący obok żurawika portowego. Potem wybraliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Po wizycie w kawiarni udaliśmy się do <em>Mistrala</em> na Kaszubskiej na lemoniadę poziomkową. Następnie postanowiliśmy iść do <em>Góry Lodowej</em>. Idąc ulicą Bakuły z bacią dotarliśmy do <em>Pasażu Bałtyckiego</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1. </p>
+  
+  <h3 id="DD">1.08.2019r.</h3>
+  
+  <p>Dzisiaj rano udaliśmy się na obiad. Po nim wybraliśmy się do <em>Mistrala</em> na Kaszubskiej. Potem poszliśmy do <em>Bacio</em>,    w którym zjadłem dwie gałki lodów. Następnie oglądaliśmy statek SM PRC 112 stojący w porcie. Po tej wizycie udaliśmy się na ulicę Leszka Bakuły, gdzie w niedziele odbywa się targ. Później wybraliśmy się do domu towarowego <em>Stodoła</em>. Następnie ponownie weszliśmy do portu oglądać barkę pogłębiającą, która stoi obok miejsca <em>Dragona</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1 i zjedliśmy pierogi w <em>Starej pierogarni</em>. </p>
+  
        </div>
+       
+       
        
    
  
