@@ -34,31 +34,8 @@
       #klik{
          color: grey; 
       }
-      #lokko{
-          position: absolute;
-          top: 40px;
-          left: 127px;
-          font-family: Arial;
-          
-          
-      }
-      nav{
-          text-decoration: none;
-          color: black;
-      }
-      a{
-        text-decoration: none;
-        color: black;
-       
-      }
-      a:hover{
-          background-color: red;
-          color: white;
-      }
-      a:active{
-          background-color: red;
-            color: white;
-      }
+    
+      
       .lok{
          position: absolute; 
          left: 00px;
@@ -129,6 +106,43 @@
        right: 0px;
        left: 0px;
        }
+       ul {
+           position: absolute;
+           margin: 0px;
+           padding: 0px;
+           list-style-type: none;
+           right: 0px;
+           top: 0px;
+           z-index: 3;
+       }
+       ul li{
+           width: 100px;
+           height: 40px;
+           background-color: red;
+           opacity: .8;
+           line-height: 40px;
+           text-align: center;
+          font-size: 20px;
+              
+       }
+       ul li a{
+           text-decoration: none;
+           color: white;
+           display: block;
+         
+       }
+       ul li a:hover{
+           background-color: green;
+       }
+       
+       ul li ul li{
+           display: none;
+         
+       }
+      
+        ul li:hover ul li{
+           display: block;
+       }
         </style>
     </head>
     <body>
@@ -136,14 +150,15 @@
     
         <p><span id="aut">Autor:</span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
-         <div id="lokko">
-        <nav>
-            <a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
-            <a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
-            <a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
-        </nav>
-  
-        </div>
+         <ul>
+       <li><a href="#">Menu</a>
+      <ul>
+            <li><a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a></li>
+            <li><a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a></li>
+            <li><a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a></li>
+        </ul>
+        </li>
+        </ul>
         
           
           <img id="img" src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">
