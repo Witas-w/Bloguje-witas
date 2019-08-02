@@ -396,10 +396,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <p>Dzisiaj rano udaliśmy się na pocztę nadać pocztówki. Następnie dotarliśmy na obiad przez park Chopina. Po obiedzie poszliśmy do portu, gdzie widzieliśmy rozkładający się <em>TVN Projekt plaża</em> oraz statek SM PRC 112 stojący obok żurawika portowego. Potem wybraliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Po wizycie w kawiarni udaliśmy się do <em>Mistrala</em> na Kaszubskiej na lemoniadę poziomkową. Następnie postanowiliśmy iść do <em>Góry Lodowej</em>. Idąc ulicą Bakuły z bacią dotarliśmy do <em>Pasażu Bałtyckiego</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1. </p>
   
-  <h3 id="DD">1.08.2019r.</h3>
+  <h3>1.08.2019r.</h3>
   
   <p>Dzisiaj rano udaliśmy się na obiad. Po nim wybraliśmy się do <em>Mistrala</em> na Kaszubskiej. Potem poszliśmy do <em>Bacio</em>,    w którym zjadłem dwie gałki lodów. Następnie oglądaliśmy statek SM PRC 112 stojący w porcie. Po tej wizycie udaliśmy się na ulicę Leszka Bakuły, gdzie w niedziele odbywa się targ. Później wybraliśmy się do domu towarowego <em>Stodoła</em>. Następnie ponownie weszliśmy do portu oglądać barkę pogłębiającą, która stoi obok miejsca <em>Dragona</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1 i zjedliśmy pierogi w <em>Starej pierogarni</em>. </p>
   
+  <h3 id="DD">2.08.2019r.</h3>
+  
+  <p>Dzisiaj rano bylśmy na obiedzie. Po nim udaliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Potem wybraliśmy się do portu. Gdy go opuściliśmy spostrzegłem jadnostkę Stefan wpływającą na redę, dlatego wrócilśmy się i oglądaliśmy ten okręt. Stefan jest statkiem należącym do firmy <em>PRC</em>, która posiada także  dwie barki Małża 2 i SM PRC 112. Następnie poszliśmy z babcią na plażę, gdzie w okolicach <em>Perły</em> usiedliśmy i odpoczeliśmy. Później wyruszyliśmy na ulicę Marynarki. Wieczorem wróciliśmy do domu przez Darłowską, która nadal jest w remoncie.</p>
        </div>
        
        
