@@ -36,18 +36,7 @@
       }
     
       
-      .lok{
-         position: absolute; 
-         left: 00px;
-      }
-      .klok{
-           position: absolute;
-           left: 95px;
-      }
-      .loki{
-           position: relative;
-           left: 140px;
-      }
+      
       #lokiter{
           z-index: 2;
           background-color: #4e9447;
