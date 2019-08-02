@@ -106,7 +106,8 @@
        right: 0px;
        left: 0px;
        }
-       ul {
+       
+         ul {
            position: absolute;
            margin: 0px;
            padding: 0px;
@@ -122,7 +123,7 @@
            opacity: .8;
            line-height: 40px;
            text-align: center;
-          font-size: 20px;
+           font-size: 20px;
               
        }
        ul li a{
@@ -140,6 +141,9 @@
          
        }
       
+        ul li:hover ul li{
+           display: block;
+       }
         ul li:hover ul li{
            display: block;
        }
