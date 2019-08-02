@@ -132,10 +132,12 @@
          
        }
       
-        ul li:hover ul li{
+       ul li:hover ul li{
            display: block;
        }
-       
+       ul li:active ul li{
+           display: block;
+       }
         </style>
     </head>
     <body>
