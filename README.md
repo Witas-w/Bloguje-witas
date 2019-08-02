@@ -96,6 +96,7 @@
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
                 inset 2px 2px 3px rgba(0, 0, 0, .6);
 }
+
 #img {
        position: absolute;
        z-index: 1;
@@ -144,9 +145,7 @@
         ul li:hover ul li{
            display: block;
        }
-        ul li:hover ul li{
-           display: block;
-       }
+       
         </style>
     </head>
     <body>
