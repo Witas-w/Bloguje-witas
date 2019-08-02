@@ -108,7 +108,7 @@
            z-index: 3;
        }
        ul li{
-           width: 125px;
+           width: 150px;
            height: 40px;
            background-color: red;
            opacity: .8;
