@@ -110,7 +110,7 @@
        ul li{
            width: 150px;
            height: 40px;
-           background-color: blue;
+           background-color: red;
            opacity: .8;
            line-height: 40px;
            text-align: center;
