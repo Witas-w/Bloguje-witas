@@ -403,9 +403,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <p>Dzisiaj rano udaliśmy się na obiad. Po nim wybraliśmy się do <em>Mistrala</em> na Kaszubskiej. Potem poszliśmy do <em>Bacio</em>,    w którym zjadłem dwie gałki lodów. Następnie oglądaliśmy statek SM PRC 112 stojący w porcie. Po tej wizycie udaliśmy się na ulicę Leszka Bakuły, gdzie w niedziele odbywa się targ. Później wybraliśmy się do domu towarowego <em>Stodoła</em>. Następnie ponownie weszliśmy do portu oglądać barkę pogłębiającą, która stoi obok miejsca <em>Dragona</em>. Wieczorem wróciliśmy do domu autobusem lini numer 1 i zjedliśmy pierogi w <em>Starej pierogarni</em>. </p>
   
-  <h3 id="DD">2.08.2019r.</h3>
+  <h3>2.08.2019r.</h3>
   
   <p>Dzisiaj rano bylśmy na obiedzie. Po nim udaliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Potem wybraliśmy się do portu. Gdy go opuściliśmy spostrzegłem jadnostkę Stefan wpływającą na redę, dlatego wrócilśmy się i oglądaliśmy ten okręt. Stefan jest statkiem należącym do firmy <em>PRC</em>, która posiada także  dwie barki Małża 2 i SM PRC 112. Następnie poszliśmy z babcią na plażę, gdzie w okolicach <em>Perły</em> usiedliśmy i odpoczeliśmy. Później wyruszyliśmy na ulicę Marynarki. Wieczorem wróciliśmy do domu przez Darłowską, która nadal jest w remoncie.</p>
+  
+  <h3 id="DD">3.08.2019r.</h3>
+  
+  <p>Dzisiaj wstałem trochę wcześniej. Po śniadaniu wyruszyliśmy do miasta. Na ulicy Marynarki trwały przygotowania do występów teatralnych  w ramach <em>festiwalu Mistral</em>. Przez te występy główny deptak w Ustce został zmknięty dla samochodów. Dużą scenę rozłożono również przed latarnią morską. Obiad jak zwykle zjedliśmy o godzinie trzynastej. Po obiedzie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjadłem ogromną porcję lodów. Potem udaliśmy się na wschodni falochron odwiedzić ustecką syrenkę. Następnie wróciliśmy na chwilę do domu. Odpoczeliśmy i wybraliśmy się do trzeciego mola. Tam byliśmy na plaży do godziny dwudziestej. </p>
        </div>
        
        
