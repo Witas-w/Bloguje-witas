@@ -448,9 +448,16 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <p>Dzisiaj rano bylśmy na obiedzie. Po nim udaliśmy się do <em>Bacio</em> gdzie zjadłem dwie gałki lodów. Potem wybraliśmy się do portu. Gdy go opuściliśmy spostrzegłem jadnostkę Stefan wpływającą na redę, dlatego wrócilśmy się i oglądaliśmy ten okręt. Stefan jest statkiem należącym do firmy <em>PRC</em>, która posiada także  dwie barki Małża 2 i SM PRC 112. Następnie poszliśmy z babcią na plażę, gdzie w okolicach <em>Perły</em> usiedliśmy i odpoczeliśmy. Później wyruszyliśmy na ulicę Marynarki. Wieczorem wróciliśmy do domu przez Darłowską, która nadal jest w remoncie.</p>
   
-  <h3 id="DD">3.08.2019r.</h3>
+  <h3>3.08.2019r.</h3>
   
   <p>Dzisiaj wstałem trochę wcześniej. Po śniadaniu wyruszyliśmy do miasta. Na ulicy Marynarki trwały przygotowania do występów teatralnych  w ramach <em>festiwalu Mistral</em>. Przez te występy główny deptak w Ustce został zmknięty dla samochodów. Dużą scenę rozłożono również przed latarnią morską. Obiad jak zwykle zjedliśmy o godzinie trzynastej. Po obiedzie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjadłem ogromną porcję lodów. Potem udaliśmy się na wschodni falochron odwiedzić ustecką syrenkę. Następnie wróciliśmy na chwilę do domu. Odpoczeliśmy i wybraliśmy się do trzeciego mola. Tam byliśmy na plaży do godziny dwudziestej. </p>
+  
+  
+  <h3 id="DD">4.08.2019r.</h3>
+  <p>O trzynastej zjadłem obiad. Po nim poszedłem z dziadkami do kawiarni <em>Lubicz</em>. Następnie po spacerze ulicami Ustki w stronę morza udaliśmy się na molo. Tam zrobiłem kilka zdjęć namiotów <em>Projektu Plaża TVN</em>, które dostępne są w galerii zdjęć. Wracając wstąpiliśmy do kawiarni <em>Bacio</em> na lody. Wieczorem wybraliśmy się na kolację <em>Krzywy róg</em>, gdzie zjedliśmy pyszne pielmieni. <em>Krzywy róg</em> jest restaracją polsko-ukraińską. Mają bardzo dobre jedzenie.</p>
+  
+  
+  
        </div>
        
        
