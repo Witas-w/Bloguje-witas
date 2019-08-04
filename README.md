@@ -456,7 +456,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   
   <h3 id="DD">4.08.2019r.</h3>
-  <p>O trzynastej zjadłem obiad. Po nim poszedłem z dziadkami do kawiarni <em>Lubicz</em>. Następnie po spacerze ulicami Ustki w stronę morza udaliśmy się na molo. Tam zrobiłem kilka zdjęć namiotów <em>Projektu Plaża TVN</em>, które dostępne są w galerii zdjęć. Wracając wstąpiliśmy do kawiarni <em>Bacio</em> na lody. Wieczorem wybraliśmy się na kolację do restauracji<em>Krzywy róg</em>, gdzie zjedliśmy pyszne pielmieni. <em>Krzywy róg</em> jest restaracją polsko-ukraińską. Mają bardzo dobre jedzenie.</p>
+  <p>O trzynastej zjadłem obiad. Po nim poszedłem z dziadkami do kawiarni <em>Lubicz</em>. Następnie po spacerze ulicami Ustki w stronę morza udaliśmy się na molo. Tam zrobiłem kilka zdjęć namiotów <em>Projektu Plaża TVN</em>, które dostępne są w galerii zdjęć. Wracając wstąpiliśmy do kawiarni <em>Bacio</em> na lody. Wieczorem wybraliśmy się na kolację do restauracji <em>Krzywy róg</em>, gdzie zjedliśmy pyszne pielmieni. <em>Krzywy róg</em> jest restaracją polsko-ukraińską. Mają bardzo dobre jedzenie.</p>
   
   
   
