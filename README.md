@@ -98,46 +98,86 @@
        }
        
         
-          ul {
+       .nav{
+           
            position: absolute;
-           margin: 0px;
-           padding: 0px;
-           list-style-type: none;
+           text-align: right;
+           color: black;
+           height: 30px;
+           line-height: 30px;
            right: 0px;
-           top: 30px;
+           top: 20px;
            z-index: 3;
        }
-       ul li{
-           width: 150px;
-           height: 40px;
-           background-color: red;
-           opacity: .8;
-           line-height: 40px;
-           text-align: center;
-          font-size: 20px;
-              
+       .menu{
+         margin-right: 30px;  
        }
-       ul li a{
+       .menu a{
+           clear: right;
            text-decoration: none;
-           color: white;
-           display: block;
-         
+           color: black;
+           position: relative;
+           line-height: 40px;
+           margin-right: 30px; 
        }
-       ul li a:hover{
-           background-color: green;
+       label{
+           position: absolute;
+           font-size: 26px;
+           line-height: 40px;
+           display: none;
+           width: 26px;
+           right: 10px;
+           
        }
-       
-       ul li ul li{
+       #toggle{
            display: none;
            top: 10px;
-           position: relative;
+           right: 10px;
        }
-      
-       ul li:hover ul li{
+       
+       
+       
+       @media only screen and (max-width: 500px){
+         label{
+          
+           
+          
            display: block;
+           cursor: pointer;
+}  
+         .menu{
+           display: none;
+           text-align: center;
+           width: 400px;
+          position: relative;
+          top: 25px;
+          right: 0px;
+           margin-right: 0px;
+}
+         .menu a{
+           display: block;
+           width: 400px;
+           text-decoration: none; 
+           border-bottom: 1px solid black;
+           margin: 0;
+           color: black;
+           background-color: white;
+           top: 25px;
+           right: 0px;
+            text-align: center;
+          }
+          
+          #toggle:checked + .menu {
+          display: block;
+}
        }
-       ul li:active ul li{
-           display: block;
+       a:hover{
+          background-color: red;
+          color: white;
+       }
+       a:active{
+          background-color: red;
+           color: white;
        }
         </style>
     </head>
@@ -146,15 +186,16 @@
     
         <p><span id="aut">Autor:</span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
-         <ul>
-       <li><a href="#">Menu</a>
-      <ul>
-            <li><a class="lok" href="https://witas-w.github.io/Aktualnosci/">Aktualności</a></li>
-            <li><a class="klok" href="https://witas-w.github.io/Bloguje-witas/">Blog</a></li>
-            <li><a class="loki" href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a></li>
-        </ul>
-        </li>
-        </ul>
+         <div class="nav"> 
+         <label for="toggle">&#9776;</label>
+         <input type="checkbox" id="toggle">
+         <div class="menu">
+      <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
+            <a href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
+            <a href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
+     </div>  
+        
+     </div>   
         
           
           <img id="img" src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">
