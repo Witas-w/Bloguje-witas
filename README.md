@@ -455,8 +455,46 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <p>Dzisiaj wstałem trochę wcześniej. Po śniadaniu wyruszyliśmy do miasta. Na ulicy Marynarki trwały przygotowania do występów teatralnych  w ramach <em>festiwalu Mistral</em>. Przez te występy główny deptak w Ustce został zmknięty dla samochodów. Dużą scenę rozłożono również przed latarnią morską. Obiad jak zwykle zjedliśmy o godzinie trzynastej. Po obiedzie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjadłem ogromną porcję lodów. Potem udaliśmy się na wschodni falochron odwiedzić ustecką syrenkę. Następnie wróciliśmy na chwilę do domu. Odpoczeliśmy i wybraliśmy się do trzeciego mola. Tam byliśmy na plaży do godziny dwudziestej. </p>
   
   
-  <h3 id="DD">4.08.2019r.</h3>
+  <h3>4.08.2019r.</h3>
   <p>O trzynastej zjadłem obiad. Po nim poszedłem z dziadkami do kawiarni <em>Lubicz</em>. Następnie po spacerze ulicami Ustki w stronę morza udaliśmy się na molo. Tam zrobiłem kilka zdjęć namiotów <em>Projektu Plaża TVN</em>, które dostępne są w galerii zdjęć. Wracając wstąpiliśmy do kawiarni <em>Bacio</em> na lody. Wieczorem wybraliśmy się na kolację do restauracji <em>Krzywy róg</em>, gdzie zjedliśmy pyszne pielmieni. <em>Krzywy róg</em> jest restaracją polsko-ukraińską. Mają bardzo dobre jedzenie.</p>
+  
+  
+  <h3 id="DD">5.08.2019r.</h3>
+  
+  <p>Dziś po obiedzie zaprowadziłem babcię i dzidka moich kuzynów na najlepsze lody w Ustce do <em>Bacio</em>. Następnie obserwowaliśmy na  molo wpływające do portu statki i jachty wycieczkowe. Zauważyłem, że od trzech dni na morzu w pobliżu Ustki pływa nieznany biały statek z niebieskim kominem. Nie jest on widoczny nawet na <em>Marine Traffic</em>. Potem poszedłem z bacią na plażę wschodnią. Tam spędziłem dwie godziny bawiąc się w piasku. Po powrocie z plaży udaliśmy się na gofry do <em>Chomczyńskich</em>. Wieczorem wybraliśmy się na lody do <em>Góry Lodowej</em>. Następnie wróciliśmy do domu ulicą Darłowską. </p>
+  
+  <table>
+    <thead>
+        <tr>
+            <th>Miejsce</th>
+            <th>Nazwa</th>
+            <th>punkty</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>1</td>
+     <td>Góra Lodowa</td>
+      <td>100/100</td>
+    </tr>
+     <tr>
+    <td>1</td>
+     <td>Bacio</td>
+      <td>100/100</td>
+    </tr>
+     <tr>
+    <td>2</td>
+     <td>U Lodziarzy</td>
+      <td>94/100</td>
+    </tr>
+    <tr>
+    <td>3</td>
+     <td>Chomczyńscy</td>
+      <td>30/100</td>
+    </tr>
+    </tbody>
+   </table>
   
   
   
