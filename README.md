@@ -468,7 +468,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
         <tr>
             <th>Miejsce</th>
             <th>Nazwa</th>
-            <th>punkty</th>
+            <th>Punkty</th>
             
         </tr>
     </thead>
