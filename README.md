@@ -461,8 +461,9 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <h3 id="DD">5.08.2019r.</h3>
   
-  <p>Dziś po obiedzie zaprowadziłem babcię i dzidka moich kuzynów na najlepsze lody w Ustce do <em>Bacio</em>. Następnie obserwowaliśmy na  molo wpływające do portu statki i jachty wycieczkowe. Zauważyłem, że od trzech dni na morzu w pobliżu Ustki pływa nieznany biały statek z niebieskim kominem. Nie jest on widoczny nawet na <em>Marine Traffic</em>. Potem poszedłem z bacią na plażę wschodnią. Tam spędziłem dwie godziny bawiąc się w piasku. Po powrocie z plaży udaliśmy się na gofry do <em>Chomczyńskich</em>. Wieczorem wybraliśmy się na lody do <em>Góry Lodowej</em>. Następnie wróciliśmy do domu ulicą Darłowską. </p>
+  <p>Dziś po obiedzie zaprowadziłem babcię i dziadka moich kuzynów na najlepsze lody w Ustce do <em>Bacio</em>. Następnie obserwowaliśmy na  molo wpływające do portu statki i jachty wycieczkowe. Zauważyłem, że od trzech dni na morzu w pobliżu Ustki pływa nieznany biały statek z niebieskim kominem. Nie jest on widoczny nawet na <em>Marine Traffic</em>. Potem poszedłem z bacią na plażę wschodnią. Tam spędziłem dwie godziny bawiąc się w piasku. Po powrocie z plaży udaliśmy się na gofry do <em>Chomczyńskich</em>. Wieczorem wybraliśmy się na lody do <em>Góry Lodowej</em>. Następnie wróciliśmy do domu ulicą Darłowską. </p>
   
+<h2>Ranking lodów</h2> 
   <table>
     <thead>
         <tr>
