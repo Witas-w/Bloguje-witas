@@ -459,7 +459,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   <p>O trzynastej zjadłem obiad. Po nim poszedłem z dziadkami do kawiarni <em>Lubicz</em>. Następnie po spacerze ulicami Ustki w stronę morza udaliśmy się na molo. Tam zrobiłem kilka zdjęć namiotów <em>Projektu Plaża TVN</em>, które dostępne są w galerii zdjęć. Wracając wstąpiliśmy do kawiarni <em>Bacio</em> na lody. Wieczorem wybraliśmy się na kolację do restauracji <em>Krzywy róg</em>, gdzie zjedliśmy pyszne pielmieni. <em>Krzywy róg</em> jest restaracją polsko-ukraińską. Mają bardzo dobre jedzenie.</p>
   
   
-  <h3 id="DD">5.08.2019r.</h3>
+  <h3>5.08.2019r.</h3>
   
   <p>Dziś po obiedzie zaprowadziłem babcię i dziadka moich kuzynów na najlepsze lody w Ustce do <em>Bacio</em>. Następnie obserwowaliśmy na  molo wpływające do portu statki i jachty wycieczkowe. Zauważyłem, że od trzech dni na morzu w pobliżu Ustki pływa nieznany biały statek z niebieskim kominem. Nie jest on widoczny nawet na <em>Marine Traffic</em>. Potem poszedłem z bacią na plażę wschodnią. Tam spędziłem dwie godziny bawiąc się w piasku. Po powrocie z plaży udaliśmy się na gofry do <em>Chomczyńskich</em>. Wieczorem wybraliśmy się na lody do <em>Góry Lodowej</em>. Następnie wróciliśmy do domu ulicą Darłowską. </p>
   
@@ -497,7 +497,47 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </tbody>
    </table>
   
-  
+  <h3 id="DD">6.08.2019r.</h3>
+  <p>Dzisiaj przed obiadem spacerowaliśmy promenadą. Po obiedzie jak zwykle poszliśmy do najlepszej kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów o smaku <em>Oreo</em> i jabłko z miętą. Następnie udaliśmy się na molo. Dzisiaj doszliśmy na sam koniec wschodniego falochronu, gdzie wędkarze łowili ryby. Potem wybraliśmy się na plażę. Odnalazlłem miejsce mojej wczorajszej zabawy. Po powrocie z nad wody złapała nas ulewa. Schowaliśmy się, więc w <em>Bacio</em>. Stamtąd wyruszyliśmy do autobusu lini numer 1.</p>
+   
+   <h2>Ranking lodów</h2>
+   <table>
+    <thed>
+       <tr>
+           <th>Miejsce</th>
+           <th>Nazwa</th>
+           <th>Punkt</th>
+        </tr>
+       
+    </thed>
+    <tbody>
+    <tr>
+    <td>1</td>
+    <td>Bacio</td>
+    <td>100/100</td>
+    </tr>
+     <tr>
+    <td>2</td>
+    <td>Góra Lodowa</td>
+    <td>97/100</td>
+    </tr>
+     <tr>
+    <td>3</td>
+    <td>U Lodiarzy</td>
+    <td>95/100</td>
+    </tr>
+     <tr>
+    <td>4</td>
+    <td>Wenta</td>
+    <td>90/100</td>
+    </tr>
+     <tr>
+    <td>5</td>
+    <td>Chomczyńscy</td>
+    <td>20/100</td>
+    </tr>
+    </tbody>
+    </table>
   
        </div>
        
