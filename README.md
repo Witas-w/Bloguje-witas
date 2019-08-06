@@ -523,7 +523,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </tr>
      <tr>
     <td>3</td>
-    <td>U Lodiarzy</td>
+    <td>U Lodziarzy</td>
     <td>95/100</td>
     </tr>
      <tr>
