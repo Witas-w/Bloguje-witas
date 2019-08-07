@@ -540,7 +540,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </table>
   
   <h3 id="DD">7.08.2019r.</h3>
-  <p>Dzisiaj wyszliśmy z domu o godzinie 11:40. Następnie doszliśmy ulicą Marynarki na promenadę. Tam czekaliśmy na obiad siedząc na ławce. Obiad zjedliśmy o godzinie trzynastej. Był bardzo dobry. Potem udaliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Po zjedzeniu deseru wybraliśmy się do portu. Stamtąd wyruszyliśmy do księgarni, w której kupiłem książkę pt. <em>Pan Samochodzik i Tajemnica Tajemnic</em>. Wiecorem wróciliśmy do domu autobusem lini numer 2.</p>
+  <p>Dzisiaj wyszliśmy z domu o godzinie 11:40. Następnie doszliśmy ulicą Marynarki na promenadę. Tam czekaliśmy na obiad siedząc na ławce. Obiad zjedliśmy o godzinie trzynastej. Był bardzo dobry. Potem udaliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Po zjedzeniu deseru wybraliśmy się do portu. Stamtąd wyruszyliśmy do księgarni, w której kupiłem książkę pt. <em>Pan Samochodzik i Tajemnica Tajemnic</em>. Wieczorem wróciliśmy do domu autobusem lini numer 2.</p>
   
   
        </div>
