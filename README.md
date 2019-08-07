@@ -497,7 +497,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </tbody>
    </table>
   
-  <h3 id="DD">6.08.2019r.</h3>
+  <h3>6.08.2019r.</h3>
   <p>Dzisiaj przed obiadem spacerowaliśmy promenadą. Po obiedzie jak zwykle poszliśmy do najlepszej kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów o smaku <em>Oreo</em> i jabłko z miętą. Następnie udaliśmy się na molo. Dzisiaj doszliśmy na sam koniec wschodniego falochronu, gdzie wędkarze łowili ryby. Potem wybraliśmy się na plażę. Odnalazlłem miejsce mojej wczorajszej zabawy. Po powrocie z nad wody złapała nas ulewa. Schowaliśmy się, więc w <em>Bacio</em>. Stamtąd wyruszyliśmy do autobusu lini numer 1.</p>
    
    <h2>Ranking lodów</h2>
@@ -538,6 +538,10 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </tr>
     </tbody>
     </table>
+  
+  <h3 id="DD">7.08.2019r.</h3>
+  <p>Dzisiaj wyszliśmy z domu o godzinie 11:40. Następnie doszliśmy ulicą Marynarki na promenadę. Tam czekaliśmy na obiad siedząc na ławce. Obiad zjedliśmy o godzinie trzynastej. Był bardzo dobry. Potem udaliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Po zjedzeniu deseru wybraliśmy się do portu. Stamtąd wyruszyliśmy do księgarni, w której kupiłem książkę pt. <em>Pan Samochodzik i Tajemnica Tajemnic</em>. Wiecorem wróciliśmy do domu autobusem lini numer 2.</p>
+  
   
        </div>
        
