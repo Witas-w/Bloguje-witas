@@ -539,11 +539,15 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
     </tbody>
     </table>
   
-  <h3 id="DD">7.08.2019r.</h3>
+  <h3>7.08.2019r.</h3>
   <p>Dzisiaj wyszliśmy z domu o godzinie 11:40. Następnie doszliśmy ulicą Marynarki na promenadę. Tam czekaliśmy na obiad siedząc na ławce. Obiad zjedliśmy o godzinie trzynastej. Był bardzo dobry. Potem udaliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Po zjedzeniu deseru wybraliśmy się do portu. Stamtąd wyruszyliśmy do księgarni, w której kupiłem książkę pt. <em>Pan Samochodzik i Tajemnica Tajemnic</em>. Wieczorem wróciliśmy do domu autobusem lini numer 2.</p>
   
-  <h3 id="DD">8.08.2019r.</h3>
+  <h3>8.08.2019r.</h3>
  <p>Dzisiaj spałem nieco dłużej. Z domu wyszliśmy o 13:00. Od razu poszliśmy do kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów, a babcia z dziadkiem wypili kawę. Następnie udaliśmy się na molo. Potem przeszliśmy się promenadą do parku Chopina. Przed obiadem wstąpiliśmy do <em>PEPCO</em>, w którym dziadek kupił sobie duńskie skarpetki z napisem <strong>MADE IN CHINA</strong>. Obiad zjedliśmy w restauracji <em>Syrenka</em>. Wieczorem wróciliśmy do domu autobusem lini numer 2.</p>
+ 
+ <h3 id="DD">9.08.2019r.</h3>
+ 
+ <p>Po obiedzie poszliśmy do <em>Muzeum chleba</em>. Tam oglądaliśmy ciekawy film pt."Chleb" oraz różne nrządzenia służące do jego wypieku. Następnie udaliśmy się do portu, gdzie widzieliśmy statek Bestla, który wraz ze Złotą Rybką holował Hollendarena. Zdjęcia te można obejrzeć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Potem wybralismy się na promenadę. Wieczorem wyruszyliśmy z bacią  na plażę. Po drodze widzieliśmy lisa stojącego 2 metry od nas. Przy przejściu przez tory koło osiedla Kościelniaka zaczęli budować przystanek kolejowy.</p>
  
  
        </div>
