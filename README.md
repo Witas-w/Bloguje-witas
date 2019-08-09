@@ -547,7 +547,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <h3 id="DD">9.08.2019r.</h3>
  
- <p>Po obiedzie poszliśmy do <em>Muzeum chleba</em>. Tam oglądaliśmy ciekawy film pt."Chleb" oraz różne nrządzenia służące do jego wypieku. Następnie udaliśmy się do portu, gdzie widzieliśmy statek Bestla, który wraz ze Złotą Rybką holował Hollendarena. Zdjęcia te można obejrzeć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Potem wybralismy się na promenadę. Wieczorem wyruszyliśmy z bacią  na plażę. Po drodze widzieliśmy lisa stojącego 2 metry od nas. Przy przejściu przez tory koło osiedla Kościelniaka zaczęli budować przystanek kolejowy.</p>
+ <p>Po obiedzie poszliśmy do <em>Muzeum chleba</em>. Tam oglądaliśmy ciekawy film pt."Chleb" oraz różne urządzenia służące do jego wypieku. Następnie udaliśmy się do portu, gdzie widzieliśmy statek Bestla, który wraz ze Złotą Rybką holował Hollendarena. Zdjęcia te można obejrzeć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Potem wybralismy się na promenadę. Wieczorem wyruszyliśmy z bacią  na plażę. Po drodze widzieliśmy lisa stojącego 2 metry od nas. Przy przejściu przez tory koło osiedla Kościelniaka zaczęli budować przystanek kolejowy.</p>
  
  
        </div>
