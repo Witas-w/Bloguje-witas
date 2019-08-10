@@ -181,6 +181,11 @@
           background-color: red;
            color: white;
        }
+       #kut{
+          left: 30px;
+          right: 30px;
+       }
+       
         </style>
     </head>
     <body>
@@ -548,6 +553,12 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <h3 id="DD">9.08.2019r.</h3>
  
  <p>Po obiedzie poszliśmy do <em>Muzeum chleba</em>. Tam oglądaliśmy ciekawy film pt."Chleb" oraz różne urządzenia służące do jego wypieku. Następnie udaliśmy się do portu, gdzie widzieliśmy statek Bestla, który wraz ze Złotą Rybką holował Hollendarena. Zdjęcia te można obejrzeć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Potem wybralismy się na promenadę. Wieczorem wyruszyliśmy z bacią  na plażę. Po drodze widzieliśmy lisa stojącego 2 metry od nas. Przy przejściu przez tory koło osiedla Kościelniaka zaczęli budować przystanek kolejowy.</p>
+ 
+ <h3 id="DD">10.08.2019r.</h3>
+ 
+ <p>Dzisiaj spałem długo. Po obiedzie udaliśmy się na promenadę. Tam odbywały się konkursy orkiestr dętych. Następnie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjedliśmy desery. Stamtąd wybraliśmy się na plażę. Potem przeszliśmy deptakiem wzdłuż morza. Na ulicy Marynarki dziadek zjadł kebaba. W <em>Mistralu</em> na Kaszubskiej wypiłem sok pomarńczowy. Wieczorem wróciliśmy do domu autobusem lini numer 1. Dziś odbyły mistrostwa Polski w wypłukiwaniu bursztynu.</p>
+ 
+ <img id="kut"src="https://s6.ifotos.pl/img/kalendarz_qswxwwe.png">
  
  
        </div>
