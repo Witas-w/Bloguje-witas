@@ -556,7 +556,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <h3 id="DD">10.08.2019r.</h3>
  
- <p>Dzisiaj spałem długo. Po obiedzie udaliśmy się na promenadę. Tam odbywały się konkursy orkiestr dętych. Następnie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjedliśmy desery. Stamtąd wybraliśmy się na plażę. Potem przeszliśmy deptakiem wzdłuż morza. Na ulicy Marynarki dziadek zjadł kebaba. W <em>Mistralu</em> na Kaszubskiej wypiłem sok pomarńczowy. Wieczorem wróciliśmy do domu autobusem lini numer 1. Dziś odbyły mistrostwa Polski w wypłukiwaniu bursztynu.</p>
+ <p>Dzisiaj spałem długo. Po obiedzie udaliśmy się na promenadę. Tam odbywały się konkursy orkiestr dętych. Następnie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjedliśmy desery. Stamtąd wybraliśmy się na plażę. Potem przeszliśmy deptakiem wzdłuż morza. Na ulicy Marynarki dziadek zjadł kebaba. W <em>Mistralu</em> na Kaszubskiej wypiłem sok pomarńczowy. Wieczorem wróciliśmy do domu autobusem lini numer 1. Dziś w Ustce odbyły się mistrzostwa Polski w wypłukiwaniu bursztynu.</p>
  
  <img id="kut" src="https://s6.ifotos.pl/img/kalendarz_qswxwwe.png">
  
