@@ -554,11 +554,17 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <p>Po obiedzie poszliśmy do <em>Muzeum chleba</em>. Tam oglądaliśmy ciekawy film pt."Chleb" oraz różne urządzenia służące do jego wypieku. Następnie udaliśmy się do portu, gdzie widzieliśmy statek Bestla, który wraz ze Złotą Rybką holował Hollendarena. Zdjęcia te można obejrzeć w <a href="https://witas-w.github.io/Galeria-zdjec/">galerii zdjęć</a>. Potem wybralismy się na promenadę. Wieczorem wyruszyliśmy z bacią  na plażę. Po drodze widzieliśmy lisa stojącego 2 metry od nas. Przy przejściu przez tory koło osiedla Kościelniaka zaczęli budować przystanek kolejowy.</p>
  
- <h3 id="DD">10.08.2019r.</h3>
+ <h3>10.08.2019r.</h3>
  
  <p>Dzisiaj spałem długo. Po obiedzie udaliśmy się na promenadę. Tam odbywały się konkursy orkiestr dętych. Następnie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjedliśmy desery. Stamtąd wybraliśmy się na plażę. Potem przeszliśmy deptakiem wzdłuż morza. Na ulicy Marynarki dziadek zjadł kebaba. W <em>Mistralu</em> na Kaszubskiej wypiłem sok pomarńczowy. Wieczorem wróciliśmy do domu autobusem lini numer 1. Dziś w Ustce odbyły się mistrzostwa Polski w wypłukiwaniu bursztynu.</p>
  
  <img id="kut" src="https://s6.ifotos.pl/img/kalendarz_qswxwwe.png">
+ 
+ <h3 id="DD">11.08.2019r.</h3>
+ 
+ <p>Po obiedzie udaliśmy się Traktem Solidarności na promenadę. Na promenadzie rozłożone są stragany wyrobów z bursztynu. Następnie poszliśmy do kawiarni <em>Bacio</em>. Stamtąd wybraliśmy się do portu i na molo. Potem chcieliśmy iść na plażę ale było bardzo dużo ludzi i bardzo gorąco. Kolację zjedliśmy w <em>Lagunie</em>. Jedzeniem zachwycony był tylko dziadek. Wieczorem wróciliśmy do domu ulicą Darłowską.</p>
+ 
+ <img src="https://s6.ifotos.pl/img/bursztynn_qswnrha.png">
  
  
        </div>
