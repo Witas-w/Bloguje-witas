@@ -570,7 +570,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 
 <p>Dziś rano udaliśmy się ulicą Marynarki na obiad. Po nim poszliśmy do <em>Stodoły</em>. Następnie wybraliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Potem wyruszyliśmy do portu. Na <em>Dragona</em> wrócił pirat Barbarosa. Wieczorem z babcią wyszliśmy na plażę. Następnie przeszliśmy przez kładkę do Ustki wschodniej. Stamtąd wróciliśmy do domu o godzinie 21:00.</p>
 
-<img id="kut"src="https://s6.ifotos.pl/img/WUstcepng_qswnswr.png">
+<img id="kut" src="https://s6.ifotos.pl/img/WUstcepng_qswnswr.png">
 
 
 
