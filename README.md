@@ -558,15 +558,22 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <p>Dzisiaj spałem długo. Po obiedzie udaliśmy się na promenadę. Tam odbywały się konkursy orkiestr dętych. Następnie poszliśmy do kawiarni <em>Bacio</em>, gdzie zjedliśmy desery. Stamtąd wybraliśmy się na plażę. Potem przeszliśmy deptakiem wzdłuż morza. Na ulicy Marynarki dziadek zjadł kebaba. W <em>Mistralu</em> na Kaszubskiej wypiłem sok pomarńczowy. Wieczorem wróciliśmy do domu autobusem lini numer 1. Dziś w Ustce odbyły się mistrzostwa Polski w wypłukiwaniu bursztynu.</p>
  
- <img id="kut" src="https://s6.ifotos.pl/img/kalendarz_qswxwwe.png">
+ <img src="https://s6.ifotos.pl/img/kalendarz_qswxwwe.png">
  
- <h3 id="DD">11.08.2019r.</h3>
+ <h3>11.08.2019r.</h3>
  
  <p>Po obiedzie udaliśmy się Traktem Solidarności na promenadę. Na promenadzie rozłożone są stragany wyrobów z bursztynu. Następnie poszliśmy do kawiarni <em>Bacio</em>. Stamtąd wybraliśmy się do portu i na molo. Potem chcieliśmy iść na plażę ale było bardzo dużo ludzi i bardzo gorąco. Kolację zjedliśmy w <em>Lagunie</em>. Jedzeniem zachwycony był tylko dziadek. Wieczorem wróciliśmy do domu ulicą Darłowską.</p>
  
  <img src="https://s6.ifotos.pl/img/bursztynn_qswnrha.png">
  
- 
+<h3 id="DD">12.08.2019r.</h3>
+
+<p>Dziś rano udaliśmy się ulicą Marynarki na obiad. Po nim poszliśmy do <em>Stodoły</em>. Następnie wybraliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Potem wyruszyliśmy do portu. Na <em>Dragona</em> wrócił pirat Barbarosa. Wieczorem z babcią wyszliśmy na plażę. Następnie przeszliśmy przez kładkę do Ustki wschodniej. Stamtąd wróciliśmy do domu o godzinie 21:00.</p>
+
+<img id="kut" src="https://s6.ifotos.pl/img/144922914_qswnswp.jpg">
+
+
+
        </div>
        
        
