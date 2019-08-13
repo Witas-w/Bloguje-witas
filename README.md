@@ -217,53 +217,13 @@
   
   <p>Dzisiaj było 30 stopni w cieniu przez co piasek bardzo mocno parzył.W porcie nadal stoi "Unicus".Może jutro przypłynie "Dragon".Byliśmy też po stronie wschodniej na pysznych lodach w "Górze Lodowej".(pod spodem znajduje się mój ranking lodów).</p>
   
-  <table>
-        <thead>
-            <tr>
-                <th>Nazwa</th>
-                <th>punkty</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-               
-                <td>1.Góra Lodowa</td>
-                <td>100/100</td>
-            </tr>
-            <tr>
-                
-                <td>1.U Lodziarzy</td>
-                <td>100/100</td>
-            </tr>
-            <tr>
-               
-                <td>2.Bacio</td>
-                <td>93/100</td>
-            </tr>
-            <tr>
-               
-                <td>3.Chomczyńscy</td>
-                <td>74/100</td>
-            </tr>
-            <tr>
-               
-                <td>4.Jablonowscy</td>
-                <td>60/100</td>
-            </tr>
-            <tr>
-               
-                <td>5.Mistral</td>
-                <td>37/100</td>
-            </tr>
-            
-        </tbody>
-    </table>
+  
     
     <h3>27.06.2019r.</h3>
     <p>(godz.15:02)Właśnie wróciliśmy ze Słupska gdzie byliśmy w galerii handlowej "Jantar". W galerii byliśmy w kilku księgarniach.Po powrocie zamówiliśmy pizze.Następny wpis pojawi się wieczorem.O Słupsku przeczytacie pod spodem.</p>
     <p class="pod"><strong><em>Słupsk</em></strong> to miasto na prawach powiatu w północnej Polsce, w województwie pomorskim, siedziba władz powiatu słupskiego oraz gminy Słupsk. Leży na Pobrzeżu Koszalińskim, nad Słupią, przy trasie europejskiej E28, dawna siedziba książąt pomorskich.</p>
     <p>Po powrocie ze <strong>Słupska</strong> poszliśmy do <em>Góry Lodowej</em>.A następnie do baru III molo i na plażę.</p>
-    <h2>Ranking gofrów</h2>
+    <h2>Mój Ranking gofrów</h2>
     <table>
         <thead>
             <tr>
@@ -468,44 +428,12 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <p>Dziś po obiedzie zaprowadziłem babcię i dziadka moich kuzynów na najlepsze lody w Ustce do <em>Bacio</em>. Następnie obserwowaliśmy na  molo wpływające do portu statki i jachty wycieczkowe. Zauważyłem, że od trzech dni na morzu w pobliżu Ustki pływa nieznany biały statek z niebieskim kominem. Nie jest on widoczny nawet na <em>Marine Traffic</em>. Potem poszedłem z bacią na plażę wschodnią. Tam spędziłem dwie godziny bawiąc się w piasku. Po powrocie z plaży udaliśmy się na gofry do <em>Chomczyńskich</em>. Wieczorem wybraliśmy się na lody do <em>Góry Lodowej</em>. Następnie wróciliśmy do domu ulicą Darłowską. </p>
   
-<h2>Ranking lodów</h2> 
-  <table>
-    <thead>
-        <tr>
-            <th>Miejsce</th>
-            <th>Nazwa</th>
-            <th>Punkty</th>
-            
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-    <td>1</td>
-     <td>Góra Lodowa</td>
-      <td>100/100</td>
-    </tr>
-     <tr>
-    <td>1</td>
-     <td>Bacio</td>
-      <td>100/100</td>
-    </tr>
-     <tr>
-    <td>2</td>
-     <td>U Lodziarzy</td>
-      <td>94/100</td>
-    </tr>
-    <tr>
-    <td>3</td>
-     <td>Chomczyńscy</td>
-      <td>30/100</td>
-    </tr>
-    </tbody>
-   </table>
+
   
   <h3>6.08.2019r.</h3>
   <p>Dzisiaj przed obiadem spacerowaliśmy promenadą. Po obiedzie jak zwykle poszliśmy do najlepszej kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów o smaku <em>Oreo</em> i jabłko z miętą. Następnie udaliśmy się na molo. Dzisiaj doszliśmy na sam koniec wschodniego falochronu, gdzie wędkarze łowili ryby. Potem wybraliśmy się na plażę. Odnalazlłem miejsce mojej wczorajszej zabawy. Po powrocie z nad wody złapała nas ulewa. Schowaliśmy się, więc w <em>Bacio</em>. Stamtąd wyruszyliśmy do autobusu lini numer 1.</p>
    
-   <h2>Ranking lodów</h2>
+   <h2>Mój Ranking lodów</h2>
    <table>
     <thed>
        <tr>
@@ -566,14 +494,65 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <img src="https://s6.ifotos.pl/img/bursztynn_qswnrha.png">
  
-<h3 id="DD">12.08.2019r.</h3>
+<h3>12.08.2019r.</h3>
 
 <p>Dziś rano udaliśmy się ulicą Marynarki na obiad. Po nim poszliśmy do <em>Stodoły</em>. Następnie wybraliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Potem wyruszyliśmy do portu. Na <em>Dragona</em> wrócił pirat Barbarosa. Wieczorem z babcią wyszliśmy na plażę. Następnie przeszliśmy przez kładkę do Ustki wschodniej. Stamtąd wróciliśmy do domu o godzinie 21:00.</p>
 
-<img id="kut" src="https://s6.ifotos.pl/img/WUstcepng_qswnswr.png">
+<img src="https://s6.ifotos.pl/img/WUstcepng_qswnswr.png">
 
 
+<h3 id="DD">13.08.2019r.</h3>
 
+<p>Gdy szliśmy na obiad zaczęło padać. Dlatego na Politechnikę podjechaliśmy taksówką. Po obiedzie udaliśmy się promenadą do kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów, a babcia z dziadkiem wypili kawę. Następnie wybraliśmy się do portu. Stamtąd poszliśmy do domu. Dziś przyjechali do Ustki rodzice. Wieczorem wyruszyliśmy do <em>Mistrala u Przyjaciół</em>. Potem udaliśmy się do <em>Lidla</em>. Po zrobieniu zakupów wróciliśmy do domu.</p>
+
+<h2>Mój ranking restauracji</h2>
+
+<table>
+   <thead>
+       <tr>
+           <th>Miejsce</th>
+           <th>Nazwa</th>
+           <th>punkty</th>
+       </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Krzywy róg</td>
+            <td>100/100</td>
+        </tr>
+         <tr>
+            <td>2</td>
+            <td>Syrenka</td>
+            <td>98/100</td>
+        </tr>
+         <tr>
+            <td>3</td>
+            <td>U Przyjaciół</td>
+            <td>95/100</td>
+        </tr>
+         <tr>
+            <td>4</td>
+            <td>Columbus</td>
+            <td>93/100</td>
+        </tr>
+         <tr>
+            <td>5</td>
+            <td>Al Dente</td>
+            <td>90/100</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>Szybka Rybka</td>
+            <td>85/100</td>
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>Laguna</td>
+            <td>69/100</td>
+        </tr>
+    </tbody>
+  </table>
        </div>
        
        
