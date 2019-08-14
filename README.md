@@ -111,7 +111,7 @@
            text-decoration: none;
            color: black;
            position: relative;
-           line-height: 40px;
+           line-height: 60px;
            margin-right: 30px; 
        }
        label{
@@ -153,11 +153,11 @@
            display: block;
            width: 500px;
            text-decoration: none; 
-           border-bottom: 1px solid white;
+           border-bottom: 1px solid black;
            margin: 0;
            color: black;
-           opacity: .8;
-           background-color: blue;
+           
+           background-color: white;
            top: 25px;
            right: 0px;
            left: 0px;
