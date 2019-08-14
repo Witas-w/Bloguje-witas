@@ -155,7 +155,7 @@
            text-decoration: none; 
            border-bottom: 1px solid white;
            margin: 0;
-           color: black;
+           color: white;
            background-color: blue;
            top: 25px;
            right: 0px;
