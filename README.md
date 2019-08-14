@@ -10,7 +10,7 @@
          color: white; 
     background: #396f38;
     margin: 0px;
-    
+    font-family: Arial ; 
    
    
         }
@@ -155,7 +155,8 @@
            text-decoration: none; 
            border-bottom: 1px solid white;
            margin: 0;
-           color: white;
+           color: black;
+           opacity: .8;
            background-color: blue;
            top: 25px;
            right: 0px;
