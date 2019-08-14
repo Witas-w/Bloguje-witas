@@ -496,7 +496,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 <img src="https://s6.ifotos.pl/img/WUstcepng_qswnswr.png">
 
 
-<h3 id="DD">13.08.2019r.</h3>
+<h3>13.08.2019r.</h3>
 
 <p>Gdy szliśmy na obiad zaczęło padać. Dlatego na Politechnikę podjechaliśmy taksówką. Po obiedzie udaliśmy się promenadą do kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów, a babcia z dziadkiem wypili kawę. Następnie wybraliśmy się do portu. Stamtąd poszliśmy do domu. Dziś przyjechali do Ustki rodzice. Wieczorem wyruszyliśmy do <em>Mistrala u Przyjaciół</em>. Potem udaliśmy się do <em>Lidla</em>. Po zrobieniu zakupów wróciliśmy do domu.</p>
 
@@ -548,6 +548,61 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
         </tr>
     </tbody>
   </table>
+  
+  <h3 id="DD">14.08.2019r.</h3>
+  
+  <p>Dziś wstałem bardzo wcześnie. Po śniadaniu poszliśmy na kładkę. Z portu udaliśmy się na promenadę, tam zagrałem z dziadkiem w cymber guy' a. Następnie wybraliśmy się do kawiarni <em>Bacio</em>, gdzie zjadłem dwie gałki lodów. Najlepszy smak lodów w <em>Bacio</em> to <em>Kinder Bueno</em> i szarlotka. Potem wróciliśmy do domu. Stamtąd wyruszyliśmy do <em>Mistrala U Przyjaciół</em>. Wieczorem doszliśmy portem do domu.</p>
+  
+  <h2>Mój ranking restauracji</h2>
+
+<table>
+   <thead>
+       <tr>
+           <th>Miejsce</th>
+           <th>Nazwa</th>
+           <th>punkty</th>
+       </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>U Przyjaciół</td>
+            <td>100/100</td>
+        </tr>
+         <tr>
+            <td>2</td>
+            <td>Syrenka</td>
+            <td>98/100</td>
+        </tr>
+         <tr>
+            <td>3</td>
+            <td>Columbus</td>
+            <td>95/100</td>
+        </tr>
+         <tr>
+            <td>4</td>
+            <td>Krzywy Róg</td>
+            <td>93/100</td>
+        </tr>
+         <tr>
+            <td>5</td>
+            <td>Al Dente</td>
+            <td>90/100</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>Szybka Rybka</td>
+            <td>85/100</td>
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>Laguna</td>
+            <td>69/100</td>
+        </tr>
+    </tbody>
+  </table>
+  
+  
        </div>
        
        
