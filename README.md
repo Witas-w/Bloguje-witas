@@ -11,7 +11,7 @@
     background: #396f38;
     margin: 0px;
     font-family: Arial ; 
-   
+    overflow: hidden;
    
         }
         table{
