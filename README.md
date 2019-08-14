@@ -52,14 +52,7 @@
           border-bottom:1px solid white;
           
       }
-      .img{
-          float: left;
-          top: 75px;
-          left: 0px;
-          width: 30%;
-          height: 30%;
-          position: fixed;
-      }
+     
       .styled {
     border: 0;
     line-height: 2.5;
@@ -110,10 +103,10 @@
            top: 10px;
            z-index: 4;
        }
-       .menu{
+       #menu{
          margin-right: 30px;  
        }
-       .menu a{
+       #menu a{
            clear: right;
            text-decoration: none;
            color: black;
@@ -146,7 +139,7 @@
            display: block;
            cursor: pointer;
 }  
-         .menu{
+         #menu{
            display: none;
            text-align: center;
            width: 500px;
@@ -156,7 +149,7 @@
           left: 0px;
            margin-right: 0px;
 }
-         .menu a{
+         #menu a{
            display: block;
            width: 500px;
            text-decoration: none; 
@@ -170,7 +163,7 @@
             text-align: center;
           }
           
-          #toggle:checked + .menu {
+          #toggle:checked + #menu {
           display: block;
 }
        }
@@ -197,7 +190,7 @@
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
          <input type="checkbox" id="toggle">
-         <div class="menu">
+         <div id="menu">
       <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
             <a href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
