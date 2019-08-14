@@ -222,25 +222,30 @@
     <table>
         <thead>
             <tr>
+                <th>Miejsce</th>
                 <th>Nazwa</th>
                 <th>Punkty</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>1.Bar 3 molo</td>
+               <td>1</td>
+                <td>Bar 3 molo</td>
                 <td>100/100</td>
             </tr>
             <tr>
-                <td>1.Chomczyńscy</td>
+                <td>1</td>
+                <td>Chomczyńscy</td>
                 <td>100/100</td>
             </tr>
             <tr>
-                <td>2.Lody,Gofry</td>
+                <td>2</td>
+                <td>Lody,Gofry</td>
                 <td>87/100</td>
             </tr>
             <tr>
-                <td>3.Kołacze,Gofry,Lody</td>
+                <td>3</td>
+                <td>Kołacze,Gofry,Lody</td>
                 <td>76/100</td>
             </tr>
         </tbody>
@@ -500,54 +505,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 
 <p>Gdy szliśmy na obiad zaczęło padać. Dlatego na Politechnikę podjechaliśmy taksówką. Po obiedzie udaliśmy się promenadą do kawiarni <em>Bacio</em>. Tam zjadłem dwie gałki lodów, a babcia z dziadkiem wypili kawę. Następnie wybraliśmy się do portu. Stamtąd poszliśmy do domu. Dziś przyjechali do Ustki rodzice. Wieczorem wyruszyliśmy do <em>Mistrala u Przyjaciół</em>. Potem udaliśmy się do <em>Lidla</em>. Po zrobieniu zakupów wróciliśmy do domu.</p>
 
-<h2>Mój ranking restauracji</h2>
 
-<table>
-   <thead>
-       <tr>
-           <th>Miejsce</th>
-           <th>Nazwa</th>
-           <th>punkty</th>
-       </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>Krzywy róg</td>
-            <td>100/100</td>
-        </tr>
-         <tr>
-            <td>2</td>
-            <td>Syrenka</td>
-            <td>98/100</td>
-        </tr>
-         <tr>
-            <td>3</td>
-            <td>U Przyjaciół</td>
-            <td>95/100</td>
-        </tr>
-         <tr>
-            <td>4</td>
-            <td>Columbus</td>
-            <td>93/100</td>
-        </tr>
-         <tr>
-            <td>5</td>
-            <td>Al Dente</td>
-            <td>90/100</td>
-        </tr>
-         <tr>
-            <td>6</td>
-            <td>Szybka Rybka</td>
-            <td>85/100</td>
-        </tr>
-         <tr>
-            <td>7</td>
-            <td>Laguna</td>
-            <td>69/100</td>
-        </tr>
-    </tbody>
-  </table>
   
   <h3 id="DD">14.08.2019r.</h3>
   
