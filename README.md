@@ -26,6 +26,7 @@
            font-family: Arial;
            float: left;
           left: 0px;
+           z-index: 3;
        }
        #aut{
         
@@ -87,11 +88,11 @@
 }
 
 #img {
-       position: absolute;
+       position: fixed;
        z-index: 1;
-      height: 230px;
+      height: 300px;
       bottom: 0px;
-       top: 70px;
+       top: 0px;
        width: 100%;
        right: 0px;
        left: 0px;
@@ -107,7 +108,7 @@
            line-height: 30px;
            right: 0px;
            top: 10px;
-           z-index: 3;
+           z-index: 4;
        }
        .menu{
          margin-right: 30px;  
@@ -205,7 +206,7 @@
      </div>   
         
           
-          <img id="img" src="https://s6.ifotos.pl/img/670C82C4-_qseaxrh.jpg">
+          <img id="img" src="https://s6.ifotos.pl/img/B0A7CA69-_qswewee.jpg">
           
         <div id="lokiter">
          <h2 id="akt" >Blog</h2>
