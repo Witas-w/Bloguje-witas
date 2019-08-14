@@ -164,7 +164,7 @@
             text-align: center;
           }
           
-          #toggle:checked + #menu {
+          #toggle:checked + .menu {
           display: block;
 }
        }
