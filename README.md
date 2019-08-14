@@ -111,7 +111,7 @@
            text-decoration: none;
            color: black;
            position: relative;
-           line-height: 60px;
+           line-height: 40px;
            margin-right: 30px; 
        }
        label{
