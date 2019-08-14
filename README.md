@@ -153,10 +153,10 @@
            display: block;
            width: 500px;
            text-decoration: none; 
-           border-bottom: 1px solid black;
+           border-bottom: 1px solid white;
            margin: 0;
            color: black;
-           background-color: white;
+           background-color: blue;
            top: 25px;
            right: 0px;
            left: 0px;
