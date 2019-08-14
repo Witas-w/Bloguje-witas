@@ -84,7 +84,7 @@
        position: fixed;
        z-index: 1;
       height: 300px;
-      bottom: 0px;
+      
        top: 0px;
        width: 100%;
        right: 0px;
@@ -142,7 +142,7 @@
          #menu{
            display: none;
            text-align: center;
-           width: 500px;
+           width: 100%;
           position: relative;
           top: 25px;
           right: 0px;
@@ -151,7 +151,7 @@
 }
          #menu a{
            display: block;
-           width: 500px;
+           width: 100%;
            text-decoration: none; 
            border-bottom: 1px solid black;
            margin: 0;
