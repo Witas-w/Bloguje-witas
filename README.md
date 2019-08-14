@@ -103,10 +103,10 @@
            top: 10px;
            z-index: 4;
        }
-       #menu{
+       .menu{
          margin-right: 30px;  
        }
-       #menu a{
+       .menu a{
            clear: right;
            text-decoration: none;
            color: black;
@@ -139,7 +139,7 @@
            display: block;
            cursor: pointer;
 }  
-         #menu{
+         .menu{
            display: none;
            text-align: center;
            width: 500px;
@@ -149,7 +149,7 @@
           left: 0px;
            margin-right: 0px;
 }
-         #menu a{
+         .menu a{
            display: block;
            width: 500px;
            text-decoration: none; 
@@ -191,7 +191,7 @@
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
          <input type="checkbox" id="toggle">
-         <div id="menu">
+         <div class="menu">
       <a href="https://witas-w.github.io/Aktualnosci/">Aktualności</a>
             <a href="https://witas-w.github.io/Bloguje-witas/">Blog</a>
             <a href="https://witas-w.github.io/Galeria-zdjec/">Zdjęcia</a>
