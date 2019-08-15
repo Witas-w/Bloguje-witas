@@ -564,7 +564,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
   
   <h3 id="DD">15.08.2019r.</h3>
   
-  <p>Po tym jak odprowadziliśmy babcię i dziadka poszliśmy kładką do portu. Tam odbywała się msza na statku orp Gopło. Następnie zjedliśmy lody w kawiarni <em>Bacio</em>. Potem poszliśmy do <em>Traktu Solidarności</em>. Stamtąd eróciliśmy do domu. Wieczorem wybraliśmy się do <em>Baru 3 molo</em> i na plażę. W Ustce wschodniej przeszliśmy się portem do <em>Góry Lodowej</em>. Po powrocie ze spaceru pracowałem nad unowocześnieniem mojej strony.<br>
+  <p>Po tym jak odprowadziliśmy babcię i dziadka poszliśmy kładką do portu. Tam odbywała się msza na statku orp Gopło. Następnie zjedliśmy lody w kawiarni <em>Bacio</em>. Potem poszliśmy do <em>Traktu Solidarności</em>. Stamtąd wróciliśmy do domu. Wieczorem wybraliśmy się do <em>Baru 3 molo</em> i na plażę. W Ustce wschodniej przeszliśmy się portem do <em>Góry Lodowej</em>. Po powrocie ze spaceru pracowałem nad unowocześnieniem mojej strony.<br>
 1 P.S. Dziadek Stanley siedzisz już w swoim fotelu?<br>
 2 P.S. Dziadek Andrzej pracujesz na tablecie (układasz pasjansa)?<br>
 3 P.S. Babcia Gaga i Genley- W <em>Lejdis</em> rzucili nowy towar.</p>
