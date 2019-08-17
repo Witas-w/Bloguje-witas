@@ -394,9 +394,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
 2 P.S. Dziadek Andrzej pracujesz na tablecie (układasz pasjansa)?<br>
 3 P.S. Babcia Gaga i Genley- W <em>Lejdis</em> rzucili nowy towar.</p>
   
- <h3 id="DD">16.08.2019r.</h3>
+ <h3>16.08.2019r.</h3>
  
  <p>Dziś wstałem o godzinie 11:40. Po śniadaniu poszliśmy ulicą wczasową do <em>Perły</em>. Stamtąd wróciliśmy do miasta nową promenadą. W parku Chopina zjadłem trzy gałki lodów w lodziarni <em>U Lodziarzy</em>. Po tych smacznych lodach na stronie rankingi dodałem im dwa punkty. Następnie udaliśmy się promenadą do portu. Tam czekaliśmy aż tłum przejdzie przez kładkę. Po piętnastu minutach w końcu udało nam się znaleźć w Ustce zachodniej. Wieczorem wybraliśmy się do <em>Baru 3 molo</em>, gdzie wypiliśmy lemoniadę i zjedliśmy gofry. Potem usiedliśmy na plaży i oglądaliśmy zachód słońca.</p>
+ 
+ <h3 id="DD">17.08.2019r.</h3>
+ 
+ <p>Dziś wstałem nieco wcześniej. Po śniadaniu udaliśmy się na ulicę Leszka Bakuły. Tam rozłożył się targ staroci. Stamtąd wybraliśmy się do Mariny, Pasażu Bałtyckiego i galerii "Pod Filarami". Następnie poszliśmy na promenadę. Tam odbywa się kiermasz rzemiosł. W porcie zrobiłem zdjęcia statków. Można je obejrzeć na stronie <em><strong>Statki</strong></em>. Wieczorem wyruszyliśmy do Lędowa, gdzie zwiedziliśmy okolice poligonu.</p>
        </div>
        
        
