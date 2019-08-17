@@ -400,7 +400,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <h3 id="DD">17.08.2019r.</h3>
  
- <p>Dziś wstałem nieco wcześniej. Po śniadaniu udaliśmy się na ulicę Leszka Bakuły. Tam rozłożył się targ staroci. Stamtąd wybraliśmy się do Mariny, Pasażu Bałtyckiego i galerii "Pod Filarami". Następnie poszliśmy na promenadę. Tam odbywa się kiermasz rzemiosł. W porcie zrobiłem zdjęcia statków. Można je obejrzeć na stronie <em><strong>Statki</strong></em>. Wieczorem wyruszyliśmy do Lędowa, gdzie zwiedziliśmy okolice poligonu.</p>
+ <p>Dziś wstałem nieco wcześniej. Po śniadaniu udaliśmy się na ulicę Leszka Bakuły. Tam rozłożył się targ staroci. Stamtąd wybraliśmy się do Mariny, Pasażu Bałtyckiego i galerii "Pod Filarami". Następnie poszliśmy na promenadę. Tam odbywa się kiermasz rzemiosł. W porcie zrobiłem zdjęcia statków. Można je obejrzeć na stronie <a href="https://witas-w.github.io/OStatkach/"><em><strong>Statki</strong></em></a>. Wieczorem wyruszyliśmy do Lędowa, gdzie zwiedziliśmy okolice poligonu.</p>
        </div>
        
        
