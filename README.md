@@ -9,7 +9,7 @@
     <body>
     <div class="menu-1">
     
-        <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
+ <p><span id="aut"><strong>Autor:</strong></span><span id="klik"><em><strong> JAKUB<BR>WITKOWSKI</strong></em></span></p>
          </div>
          <div class="nav"> 
          <label for="toggle">&#9776;</label>
@@ -22,12 +22,12 @@
              <a href="https://witas-w.github.io/OStatkach/">Statki</a>
      </div>  
         
-     </div>   
+ </div>   
         
           
-          <img id="img" src="https://s6.ifotos.pl/img/B0A7CA69-_qswewee.jpg">
+  <img id="img" src="https://s6.ifotos.pl/img/B0A7CA69-_qswewee.jpg">
           
-        <div id="lokiter">
+  <div id="lokiter">
          <h2 id="akt" >Blog</h2>
   <a href="#DD"><button class="styled"
         type="button">
@@ -39,7 +39,8 @@
   
   
     
-    <h3>27.06.2019r.</h3>
+    
+<h3>27.06.2019r.</h3>
     <p>(godz.15:02)Właśnie wróciliśmy ze Słupska gdzie byliśmy w galerii handlowej "Jantar". W galerii byliśmy w kilku księgarniach.Po powrocie zamówiliśmy pizze.Następny wpis pojawi się wieczorem.O Słupsku przeczytacie pod spodem.</p>
     <p class="pod"><strong><em>Słupsk</em></strong> to miasto na prawach powiatu w północnej Polsce, w województwie pomorskim, siedziba władz powiatu słupskiego oraz gminy Słupsk. Leży na Pobrzeżu Koszalińskim, nad Słupią, przy trasie europejskiej E28, dawna siedziba książąt pomorskich.</p>
     <p>Po powrocie ze <strong>Słupska</strong> poszliśmy do <em>Góry Lodowej</em>.A następnie do baru III molo i na plażę.</p>
@@ -402,5 +403,5 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
        
    
  
-    </body>
+   </body>
 </html>
