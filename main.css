@@ -45,13 +45,13 @@
 
       }
 button{
-  width: 260px;
+  width: 230px;
   padding: 20px;
   background-color: brown;
     border: 3px solid darkred;
     color: #fff;
     font-size: 20px;
-    height: 70px;
+    height: 60px;
 }
 button:active{
     background-color: darkred;
