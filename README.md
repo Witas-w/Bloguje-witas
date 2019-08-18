@@ -29,9 +29,8 @@
           
   <div id="lokiter">
          <h2 id="akt" >Blog</h2>
-  <a href="#DD"><button class="styled"
-        type="button">
-   Dzień dzisiejszy
+  <a href="#DD"><button>
+   DZIEŃ DZISIEJSZY
 </button></a>
   <h3>26.06.2019r.</h3>
   
