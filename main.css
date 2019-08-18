@@ -39,7 +39,7 @@
          left: 0px;
          font-size: 20px;
          Text-align: center;
-          font-family: cursive;
+          font-family: "walt disney script";
       }
       #akt{
           border-bottom:1px solid white;
@@ -53,7 +53,7 @@ button{
     color: #fff;
     font-size: 20px;
     height: 60px;
-    font-family:  'Walt Disney Script';
+    font-family: Arial;
 }
 button:active{
    background-color: darkred;
