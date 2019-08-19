@@ -20,6 +20,15 @@
           left: 0px;
            z-index: 3;
        }
+.logo{
+    float: left;
+    width: 250px;
+    position: absolute;
+    left: -10px;
+    top: -0px;
+    background: transparent;
+    height: 70px;
+}
        #aut{
 
          color: green;
