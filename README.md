@@ -401,9 +401,11 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <p>Dziś wstałem nieco wcześniej. Po śniadaniu udaliśmy się na ulicę Leszka Bakuły. Tam rozłożył się targ staroci. Stamtąd wybraliśmy się do Mariny, Pasażu Bałtyckiego i galerii "Pod Filarami". Następnie poszliśmy na promenadę. Tam odbywa się kiermasz rzemiosł. W porcie zrobiłem zdjęcia statków. Można je obejrzeć na stronie <a href="https://witas-w.github.io/OStatkach/"><em><strong>Statki</strong></em></a>. Wieczorem wyruszyliśmy do Lędowa, gdzie zwiedziliśmy okolice poligonu.</p>
  
- <h3 id="DD">18.08.2019r.</h3>
+ <h3>18.08.2019r.</h3>
  <p>Dziś rano wyjechaliśmy z Ustki. Podróż zajęła nam 7 godzin. Droga zakorkowana była w okolicach Białego Boru. Do Wrocławia wjechaliśmy o godzinie 19.</p>
  <img src="wrocwita.png">
+ <h3 id="DD">19.08.2019r.</h3>
+ <p>Mama wyruszyła do pracy o 8:00. Ja wstałem o godzinie 11:00. Tata pojechał do pracy o 14:00. Po powrocie mamy poszliśmy z Iggy'm na spacer nad Widawę. Wieczorem wróciliśmy do domu. Po kolacji pracowałem nad swoją stroną.</p>
        </div>
        
        
