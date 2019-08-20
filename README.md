@@ -404,8 +404,12 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <h3>18.08.2019r.</h3>
  <p>Dziś rano wyjechaliśmy z Ustki. Podróż zajęła nam 7 godzin. Droga zakorkowana była w okolicach Białego Boru. Do Wrocławia wjechaliśmy o godzinie 19.</p>
  <img src="wrocwita.png">
- <h3 id="DD">19.08.2019r.</h3>
+ <h3>19.08.2019r.</h3>
  <p>Mama wyruszyła do pracy o 8:00. Ja wstałem o godzinie 11:00. Tata pojechał do pracy o 14:00. Po powrocie mamy poszliśmy z Iggy'm na spacer nad Widawę. Wieczorem wróciliśmy do domu. Po kolacji pracowałem nad swoją stroną.</p>
+ 
+ <h3 id="DD">20.08.2019r.</h3>
+ 
+ <p>Rodzice pojechali rano do pracy. Ja wstałem ogodzinie 9:00. Babcia z dziadkiem przyjechali do mnie o 11:00. Po południu wrócili rodzice. Wieczorem pojechaliśmy do <em>Korony</em> i do fryzjera. Potem wróciliśmy do domu.</p>
        </div>
        
        
