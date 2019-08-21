@@ -5,7 +5,17 @@
         <meta charset="utf-8">
         <title>testowa.pl</title>
        <link rel="stylesheet" type="text/css" href="main.css">
-    </head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146144986-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146144986-1');
+</script>
+
+ </head>
     <body>
     <div class="menu-1">
     
@@ -407,9 +417,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  <h3>19.08.2019r.</h3>
  <p>Mama wyruszyła do pracy o 8:00. Ja wstałem o godzinie 11:00. Tata pojechał do pracy o 14:00. Po powrocie mamy poszliśmy z Iggy'm na spacer nad Widawę. Wieczorem wróciliśmy do domu. Po kolacji pracowałem nad swoją stroną.</p>
  
- <h3 id="DD">20.08.2019r.</h3>
+ <h3>20.08.2019r.</h3>
  
  <p>Rodzice pojechali rano do pracy. Ja wstałem ogodzinie 9:00. Babcia z dziadkiem przyjechali do mnie o 11:00. Po południu wrócili rodzice. Wieczorem pojechaliśmy do <em>Korony</em> i do fryzjera. Potem wróciliśmy do domu.</p>
+ 
+ <h3 id="DD">21.08.2019r.</h3>
+ 
+ <p>Po śniadaniu przyjechał do mnie wujek. Z nim wybrałem się na dworzec Psie Pole. Tam przesiedliśmy się w pociąg <em>Kolei Dolnośląskich</em>,  którym dojechaliśmy do stcji Wrocław Główny. Stamtąd wyruszyliśmy do <em>Wroclavi</em> szukać nowej koszulki <a href="">Śląska Wrocław</a>. Potem udaliśmy się do <em>Arkad Wrocławskich</em>, gdzie kupiliśmy nowy t-shirt meczowy wrocławskiej drużyny piłkarskiej. Następnie wsiedliśmy w tramwaj lini numer 20. Wysiedliśmy z niego pod stadionem. Zwiedziliśmy stadion. Do pociągu powrotnego wsiedliśmy na stcji Mikołajów. Na Psim Polu wsiedliśmy w pozostawiony tam samochód i wróciliśmy do domu.</p>
        </div>
        
        
