@@ -423,7 +423,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <h3 id="DD">21.08.2019r.</h3>
  
- <p>Po śniadaniu przyjechał do mnie wujek. Z nim wybrałem się na dworzec Psie Pole. Tam przesiedliśmy się w pociąg <em>Kolei Dolnośląskich</em>,  którym dojechaliśmy do stcji Wrocław Główny. Stamtąd wyruszyliśmy do <em>Wroclavi</em> szukać nowej koszulki <a href="">Śląska Wrocław</a>. Potem udaliśmy się do <em>Arkad Wrocławskich</em>, gdzie kupiliśmy nowy t-shirt meczowy wrocławskiej drużyny piłkarskiej. Następnie wsiedliśmy w tramwaj lini numer 20. Wysiedliśmy z niego pod stadionem. Zwiedziliśmy stadion. Do pociągu powrotnego wsiedliśmy na stcji Mikołajów. Na Psim Polu wsiedliśmy w pozostawiony tam samochód i wróciliśmy do domu.</p>
+ <p>Po śniadaniu przyjechał do mnie wujek. Z nim wybrałem się na dworzec Psie Pole. Tam przesiedliśmy się w pociąg <em>Kolei Dolnośląskich</em>,  którym dojechaliśmy do stcji Wrocław Główny. Stamtąd wyruszyliśmy do <em>Wroclavi</em> szukać nowej koszulki <a href="http://slaskwroclaw.pl/strona/">Śląska Wrocław</a>. Potem udaliśmy się do <em>Arkad Wrocławskich</em>, gdzie kupiliśmy nowy t-shirt meczowy wrocławskiej drużyny piłkarskiej. Następnie wsiedliśmy w tramwaj lini numer 20. Wysiedliśmy z niego pod stadionem. Zwiedziliśmy stadion. Do pociągu powrotnego wsiedliśmy na stcji Mikołajów. Na Psim Polu wsiedliśmy w pozostawiony tam samochód i wróciliśmy do domu.</p>
        </div>
        
        
