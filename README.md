@@ -421,9 +421,13 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <p>Rodzice pojechali rano do pracy. Ja wstałem ogodzinie 9:00. Babcia z dziadkiem przyjechali do mnie o 11:00. Po południu wrócili rodzice. Wieczorem pojechaliśmy do <em>Korony</em> i do fryzjera. Potem wróciliśmy do domu.</p>
  
- <h3 id="DD">21.08.2019r.</h3>
+ <h3>21.08.2019r.</h3>
  
  <p>Po śniadaniu przyjechał do mnie wujek. Z nim wybrałem się na dworzec Psie Pole. Tam przesiedliśmy się w pociąg <em>Kolei Dolnośląskich</em>,  którym dojechaliśmy do stcji Wrocław Główny. Stamtąd wyruszyliśmy do <em>Wroclavi</em> szukać nowej koszulki <a href="http://slaskwroclaw.pl/strona/">Śląska Wrocław</a>. Potem udaliśmy się do <em>Arkad Wrocławskich</em>, gdzie kupiliśmy nowy t-shirt meczowy wrocławskiej drużyny piłkarskiej. Następnie wsiedliśmy w tramwaj lini numer 20. Wysiedliśmy z niego pod stadionem. Zwiedziliśmy stadion. Do pociągu powrotnego wsiedliśmy na stcji Mikołajów. Na Psim Polu wsiedliśmy w pozostawiony tam samochód i wróciliśmy do domu.</p>
+ 
+ <h3 id="DD">22.08.2019r.</h3>
+ 
+ <p>Po południu tata zawiózł mnie do babci. Z babcią i mamą udaliśmy się do Pasażu. Tam weszliśmy do kilku sklepów i zjedliśmy lody do <em>Lodomani</em>. Następnie odprowadziliśmy babcię i wsiedliśmy w autobus 128, którym dojechaliśy do Blaszaka. Potem wyruszyliśmy na lody do kawiarni <em>Gi Gi Amoroso</em>. Stamtąd wróciliśmy do domu.</p>
        </div>
        
        
