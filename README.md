@@ -427,7 +427,7 @@ Po nim poszliśmy z babcią na wschodnią stronę.Gdy przechodziliśmy przez kł
  
  <h3 id="DD">22.08.2019r.</h3>
  
- <p>Po południu tata zawiózł mnie do babci. Z babcią i mamą udaliśmy się do Pasażu. Tam weszliśmy do kilku sklepów i zjedliśmy lody do <em>Lodomani</em>. Następnie odprowadziliśmy babcię i wsiedliśmy w autobus 128, którym dojechaliśy do Blaszaka. Potem wyruszyliśmy na lody do kawiarni <em>Gi Gi Amoroso</em>. Stamtąd wróciliśmy do domu.</p>
+ <p>Po południu tata zawiózł mnie do babci. Z babcią i mamą udaliśmy się do Pasażu. Tam weszliśmy do kilku sklepów i zjedliśmy lody w <em>Lodomani</em>. Następnie odprowadziliśmy babcię i wsiedliśmy w autobus 128, którym dojechaliśy do Blaszaka. Potem wyruszyliśmy na lody do kawiarni <em>Gi Gi Amoroso</em>. Stamtąd wróciliśmy do domu.</p>
        </div>
        
        
